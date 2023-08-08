@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sniper Robot t-pose Brawl Stars
+* source:	https://sketchfab.com/3d-models/sniper-robot-t-pose-brawl-stars-8b93bc12ffc94391b3f79f293bb2b4af
+* author:	shertiku (https://sketchfab.com/shertiku)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sniper Robot t-pose Brawl Stars" (https://sketchfab.com/3d-models/sniper-robot-t-pose-brawl-stars-8b93bc12ffc94391b3f79f293bb2b4af) by shertiku (https://sketchfab.com/shertiku) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
