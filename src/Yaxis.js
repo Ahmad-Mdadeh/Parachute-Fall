@@ -26,16 +26,16 @@ export class Yaxis extends Parachute_Fall {
       (1 + Math.exp((-K * Time) / M) * ((K / (M * g)) * Vt - 1));
     return V;
   }
-
+ 
   //position on Y befor
   counterY = 0;
-  position_on_YBefor(Time, time, positionOneY) {
-    let h = positionOneY;
+  counterY2 = 0;
+  position_on_YBefor(Time, time) {
+    let h = this.y0;
     let p = time * this.speed_on_YBefor(Time);
     this.counterY = this.counterY + p;
     return h - this.counterY;
   }
-
   //position on Y after
   position_on_YAfter(Time, time, TimeOpen, A) {
     let h = this.y0;
@@ -47,4 +47,5 @@ export class Yaxis extends Parachute_Fall {
     }
     return h - this.counterY;
   }
+ 
 }
